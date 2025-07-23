@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sleep & Relax Player - Support</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #4A90E2;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.1);
+        }
+        a {
+            color: #4A90E2;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sleep & Relax Player - Support</h1>
+        <p>Thank you for using <strong>Sleep & Relax Player</strong>. If you encounter any issues or have suggestions, feel free to contact us.</p>
+
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+
+        <h2>Frequently Asked Questions (FAQ)</h2>
+        <ul>
+            <li><strong>Q:</strong> How do I import my own audio files? <br><strong>A:</strong> Open the app and use the “Import” feature to add your music or white noise files.</li>
+            <li><strong>Q:</strong> The audio is not playing in the background. <br><strong>A:</strong> Please ensure background playback is enabled in the app settings and system permissions.</li>
+        </ul>
+
+        <h2>Privacy Policy</h2>
+        <p>We do not collect personal information. For more details, visit our <a href="https://your-privacy-policy-url.com">Privacy Policy</a>.</p>
+    </div>
+</body>
+</html>
